@@ -87,6 +87,7 @@ export default function GraphQLRequest() {
           </span>
         </button>
       </div>
+    
       <UserDetail user={userDetails} />
     </div>
   );
